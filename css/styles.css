@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(to bottom right, red, yellow, skyblue, purple);
+  height: 100vh;
+}
+
+.container {
+  padding: 150px;
+
+}
+.btn {
+  border: 2px solid black;
+}
+
+#output {
+  display: none;
+  text-align: center;
+  font-size: 1000%;
+}
+
+.jumbotron {
+  background: rgba(128, 128, 128, 0.2);
+  border:2px  rgba(128, 128, 128, 0.4);
+}
